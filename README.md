@@ -1,2 +1,2 @@
 # Cordel Website
-* Pequeno projeto para praticar as propriedades de background image e o efeito Parallax simples em imagens.
+* Pequeno projeto para praticar as propriedades relacionadas ao background-image e o efeito Parallax simples em imagens. 
